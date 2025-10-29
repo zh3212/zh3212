@@ -1,6 +1,6 @@
 ## Hi there 👋
 --- | --- | --- | ---
-[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
+(https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
 <!--
 **zh3212/zh3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
