@@ -25,9 +25,9 @@
 
 
 
-<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /><
+<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" />
 
-
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 
 ⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 82.61 %
 
