@@ -1,6 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="center">Hi 👋, I'm Zho</h1>
 <h3 align="center">A passionate software developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zh3212&label=Profile%20views&color=0e75b6&style=flat" alt="zh3212" /> </p>
 <!--
 **zh3212/zh3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
