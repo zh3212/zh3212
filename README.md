@@ -1,6 +1,6 @@
 ## Hi there 👋
 --- | --- | --- | ---
-(https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <!--
 **zh3212/zh3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
