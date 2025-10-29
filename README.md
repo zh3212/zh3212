@@ -29,6 +29,11 @@
 
 <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+
+
+
+
 ⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 82.61 %
 
 ⏰ Updated on Wed, 29 Oct 2025 12:33:59 GMT
